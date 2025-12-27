@@ -1,0 +1,189 @@
+code,name,city,grade,isGovt,feesPerYear,cutoffOpen,cutoffSC,cutoffST,cutoffNT,cutoffOBC,cutoffEWS,cutoffPWD,seatsOpen,seatsST,placementRating
+1005,Sant Gadge Baba Amravati University,Amravati,Other,1,0,89.1331398,93.405226,69.7143504,89.1331398,89.1331398,0.0,77.8251197,0,0,0.0
+1102,Vidya Bharati Mahavidyalaya Department of Research and PG Studies in Science & Management,Amravati,Other,0,0,82.8308366,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+1105,Prof. Ram Meghe Institute of Technology & Research,Amravati,Other,0,0,85.3851665,92.1797821,0.0,92.1797821,73.5368477,0.0,0.0,0,0,0.0
+1107,P. R. Pote Patil College of Engineering & Management,Amravati,Other,0,0,85.3851665,95.2942951,95.2942951,77.8251197,67.3579428,0.0,85.3851665,0,0,0.0
+1111,"P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal",Amravati,Other,0,0,69.7143504,71.1549338,61.2807064,41.4550394,71.1549338,0.0,0.0,0,0,0.0
+1113,"Sadhana Shikshan Mandal, Saraswati College",Shegaon,Other,0,0,58.7911466,82.9644433,0.0,49.3533426,82.9644433,0.0,0.0,0,0,0.0
+1314,SMT RADHADEVI GOENKA COLLEGE FOR WOMEN,Unknown,Other,0,0,10.5199653,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+2001,Dr. B. A. M.University Dept. Of Management Science,Aurangabad,Other,1,0,89.1966341,92.3361383,0.0,85.3851665,85.3851665,0.0,0.0,0,0,0.0
+2005,Dr. Babasaheb Ambedkar Marathwada Vidyapeeth,(Aurangabad) Sub Section - Osmanabad,Other,1,0,79.9969812,79.9969812,0.0,63.1574978,74.782248,0.0,0.0,0,0,0.0
+2007,Swami Ramanand Teerth Marathwada Vidyapeeth,Nanded,Other,1,0,74.782248,90.9663786,0.0,90.9663786,58.7911466,0.0,73.5368477,0,0,0.0
+2008,Government College of Engineering,Chhatrapati Sambhajinagar,Other,0,0,93.405226,96.828928,90.9663786,93.405226,89.1331398,0.0,0.0,0,0,0.0
+2102,Rajarshi Shahu Institute of Management,Aurangabad,Other,0,0,67.3579428,89.1331398,89.1331398,56.5488095,41.4550394,0.0,0.0,0,0,0.0
+2113,G. S. Mandal's Maharashtra Institute of Technology,Aurangabad,Other,0,0,56.5488095,82.8308366,31.6629561,82.8308366,41.4550394,0.0,0.0,0,0,0.0
+2115,Sahyog Sevabhavi Santha's Indira Institute of Management Science,Nanded,Other,0,0,67.3579428,95.2942951,0.0,29.9046039,63.1574978,0.0,0.0,0,0,0.0
+2119,Shree Sharda Bhavan Education Society's Institute of Technology & Management,Nanded,Other,0,0,85.3851665,85.2118788,0.0,65.8578922,69.7143504,0.0,0.0,0,0,0.0
+2120,Dnyanopasak Shikshan Mandal's Institute of Information Technology & Management,Parbhani.,Other,0,0,71.1549338,79.9969812,0.0,61.2807064,53.942159,0.0,0.0,0,0,0.0
+2124,Maratha Education Society's Institute of Management studies & Information Technology,Aurangabad,Other,0,0,80.5399495,80.5399495,0.0,39.3989669,80.5399495,0.0,0.0,0,0,0.0
+2129,M.S. Bidve Engineering College,Latur,Other,0,0,90.7733494,96.828928,0.0,85.3851665,96.828928,0.0,69.7143504,0,0,0.0
+2259,Shri Sai Institute of Management & Research,Aurangabad,Other,0,0,46.3793819,46.3793819,0.0,3.0466423,46.3793819,0.0,0.0,0,0,0.0
+2508,GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED.,Unknown,Other,0,0,46.3793819,44.5345198,0.0,0.0,23.1010151,0.0,0.0,0,0,0.0
+2519,Shri V. D. Deshmukh College of MCA,Kolpa Dist. Latur,Other,0,0,74.782248,74.782248,0.0,58.7911466,61.2807064,0.0,58.7911466,0,0,0.0
+2569,Suraj Institute of Management,Beed,Other,0,0,41.4550394,56.5488095,0.0,9.7430286,27.2744425,0.0,0.0,0,0,0.0
+2621,"MDA EDUCATION AND RESEARCH INSTITUTE, KOLPA",LATUR,Other,0,0,63.1574978,73.5368477,0.0,51.4093808,23.1010151,0.0,0.0,0,0,0.0
+2622,"Jay Bhavani Institute of Management, Badnapur",Jalna,Other,0,0,77.8251197,82.9644433,49.3533426,71.1549338,51.4093808,0.0,0.0,0,0,0.0
+2633,Yashodeep Institute of Computer Application,MCA,Other,0,0,44.5345198,34.5198145,0.0,3.0466423,25.4779232,0.0,0.067922,0,0,0.0
+2635,"Shri. Sambhaji College of Management & Technology, Degaon Road, Opp. Nadla Digras, Khadkut",Nanded,Other,0,0,61.2807064,61.2807064,16.9789978,25.4779232,44.5345198,0.0,0.0,0,0,0.0
+2664,Deogiri College,Chh. Sambhaji Nagar,Other,0,0,77.8251197,90.7733494,0.0,53.942159,90.7733494,0.0,0.0,0,0,0.0
+2665,Royal Institute of Technical Education,Latur,Other,0,0,69.7143504,77.8251197,0.0,51.4093808,51.4093808,0.0,0.0,0,0,0.0
+2667,DAYANAND COLLEGE OF COMMERCE LATUR,Unknown,Other,0,0,56.5488095,69.7143504,0.0,31.6629561,53.942159,0.0,0.0,0,0,0.0
+2672,ARTS SCIENCE AND COMMERCE COLLEGE,Unknown,Other,0,0,53.942159,76.9216256,0.0,39.3989669,76.9216256,0.0,0.0,0,0,0.0
+2674,MAHARASHTRA MAHAVIDYALAYA NILANGA,Unknown,Other,0,0,56.5488095,56.5488095,0.0,41.4550394,36.496736,0.0,56.5488095,0,0,0.0
+2695,MARATHWADA INSTITUTE OF TECHNOLOGY CIDCO,CHHATRAPATI SAMBHAJINAGAR,Other,0,0,63.1574978,82.8308366,0.0,82.8308366,49.3533426,0.0,0.0,0,0,0.0
+3012,"Veermata Jijabai Technological Institute(VJTI), Matunga",Mumbai,Other,0,0,99.8603826,99.9396704,99.8603826,99.008333,99.5434135,0.0,99.5814637,0,0,0.0
+3032,S.N.D.T Women's University P.G.D. of Computer Science,Mumbai,Other,0,0,0.0,0.0,0.0,0.0,0.0,93.5511867,0.0,0,0,0.0
+3033,Dr. Babasaheb Ambedkar Technological University,Lonere,Other,0,0,0.0,0.0,0.0,0.0,0.0,44.5345198,0.0,0,0,0.0
+3109,S.I.E.S. College of Management Studies,Mumbai,Other,0,0,98.5181554,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+3117,Gurunanak Institute of Management Studies,Mumbai,Other,0,0,97.8055126,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+3127,NCRD's Sterling Institute of Management Studies,Navi Mumbai,Other,0,0,93.405226,95.2942951,74.782248,69.7143504,82.9644433,0.0,82.9644433,0,0,0.0
+3129,Mumbai Institute of Management & Research,Mumbai,Other,0,0,90.9663786,93.405226,0.0,82.9644433,89.1966341,0.0,77.8251197,0,0,0.0
+3133,Swayamsiddhi Mitra Sangh's College of Management & Research,Thane,Other,0,0,89.1966341,92.3361383,69.7143504,63.1574978,82.8308366,0.0,0.0,0,0,0.0
+3162,Bharti Vidyapeeth's Institute of Management & Information Technology,Navi Mumbai,Other,0,0,96.828928,98.0566771,93.5511867,96.392589,92.3361383,0.0,92.3361383,0,0,0.0
+3167,"Mumbai Education Trust's Institute of Computer Science, Bandra (W)",Mumbai,Other,0,0,98.3811932,98.9283423,0.0,93.405226,98.3811932,0.0,97.390747,0,0,0.0
+3168,"Thakur Institute of Management Studies Career Development & Research, Kandivali (E)",Mumbai,Other,0,0,97.0718086,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+3173,"Deccan Education Society's Navinchandra Mehta Institute of Technology & Development, Dadar",Mumbai,Other,0,0,94.6454851,96.1125146,0.0,90.7733494,82.9644433,0.0,0.0,0,0,0.0
+3176,"Thakur College of Engineering and Technology, Kandivali",Mumbai,Other,0,0,97.8055126,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+3185,"Vivekanand Education Society's Institute of Technology, Chembur",Mumbai,Other,0,0,99.3736085,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+3200,Hope Foundation and research center's Finolex Academy of Management and Technology,Ratnagiri,Other,0,0,79.9969812,92.1797821,0.0,0.0,92.1797821,0.0,0.0,0,0,0.0
+3215,"Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology , Andheri",Mumbai,Other,0,0,99.6830308,99.7547262,99.5434135,99.5434135,97.6265047,0.0,99.5434135,0,0,0.0
+3216,"Gharda Foundation's Gharda Institute of Technology,Khed",Ratnagiri,Other,0,0,65.8578922,0.0,0.0,44.5345198,29.9046039,0.0,0.0,0,0,0.0
+3218,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor",Palghar,Other,0,0,85.2118788,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+3221,Vishnu Waman Thakur Charitable Trust's VIVA Institute of Technology,Virar,Other,0,0,85.3851665,89.1966341,0.0,67.3579428,89.1966341,0.0,0.0,0,0,0.0
+3223,Mahatma Education Society's Pillai HOC College of Engineering & Technology,Tal. Khalapur. Dist. Raigad,Other,0,0,85.3851665,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+3223,Mahatma Education Society's Pillai HOC College of Engineering & Technology,Tal. Khalapur. Dist. Raigad,Other,0,0,85.2118788,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+3438,Aditya Institute of Management Studies & Research,Borivali,Other,0,0,95.5548847,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+3539,St. Wilfred's College of Computer Sciences,Mira Road(E),Other,0,0,74.782248,46.3793819,0.0,0.0,44.5345198,0.0,0.0,0,0,0.0
+3651,KANDIVLI EDUCATION SOCIETY'S B K SHROFF COLLEGE OF ARTS AND M H SHROFF COLLEGE OF COMMERCE,Unknown,Other,0,0,92.3361383,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+4003,Inter Institutional Computer Center and Dept. of Computer Science & Electronics,RTM Nagpur University,Other,1,0,95.5548847,99.3740809,92.3361383,92.3361383,90.7733494,0.0,0.0,0,0,0.0
+4124,Amar Seva Mandal's Kamla Nehru Mahavidyalaya,Nagpur,Other,0,0,71.1549338,76.9216256,56.5488095,71.1549338,58.7911466,0.0,67.3579428,0,0,0.0
+4128,Ranibai Agnihotri Institute of Computer Information Technology,Wardha,Other,0,0,56.5488095,46.3793819,46.3793819,51.4093808,41.4550394,0.0,0.0,0,0,0.0
+4133,Sanmarg Shikshan Sanstha's Smt. Radhikatai Pandav College of Engineering,Nagpur,Other,0,0,58.7911466,65.8578922,0.0,51.4093808,53.942159,0.0,0.0,0,0,0.0
+4137,"Sir Shantilal Badjate Charitable Trust's S. B. Jain Institute of technology, Management & Research",Nagpur,Other,0,0,85.2118788,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+4138,"Jaidev Education Society, J D College of Engineering and Management",Nagpur,Other,0,0,51.4093808,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+4142,G H Raisoni College of Engineering & Management,Nagpur,Other,0,0,93.5511867,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+4145,"Wainganga College of Engineering and Management, Dongargaon",Nagpur,Other,0,0,63.1574978,36.496736,63.1574978,46.3793819,46.3793819,0.0,0.0,0,0,0.0
+4147,K.D.K. College of Engineering,Nagpur,Other,0,0,77.8251197,76.9216256,36.496736,58.7911466,71.1549338,0.0,63.1574978,0,0,0.0
+4151,Tulsiramji Gaikwad Patil College of Engineering & Technology,Nagpur,Other,0,0,61.2807064,49.3533426,61.2807064,46.3793819,44.5345198,0.0,0.0,0,0,0.0
+4152,Shri Shivaji Education Society Amravati's Science College (MCA),Nagpur,Other,0,0,87.3496474,90.9663786,82.8308366,82.9644433,90.9663786,0.0,0.0,0,0,0.0
+4153,"Sarvodaya Shikshan Mandal's Sardar Patel Mahavidayalaya, Dept. of Computer Studies & Research",Chandrapur,Other,0,0,63.1574978,44.5345198,0.0,12.4750009,51.4093808,0.0,0.0,0,0,0.0
+4157,"V. M. Vasant Commerce, J.M. Thakar Arts & J.J. Patel Science College",Nagpur,Other,0,0,44.5345198,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+4188,"Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology",Mouza Bamni,Other,0,0,51.4093808,39.3989669,0.0,0.0,16.9789978,0.0,0.0,0,0,0.0
+4613,Suryodaya College of Engineering & Technology,Nagpur,Other,0,0,80.5399495,77.8251197,77.8251197,41.4550394,58.7911466,0.0,0.0,0,0,0.0
+4679,Karanjekar College of Engineering & Management,Sakoli,Other,0,0,56.5488095,23.1010151,0.0,0.0,29.9046039,0.0,0.0,0,0,0.0
+4701,Dr.S.C. Gulhane Prerna College of Management and Technology,Nagpur,Other,0,0,51.4093808,29.9046039,25.4779232,39.3989669,31.6629561,0.0,0.0,0,0,0.0
+5002,"Department of Computer Science, North Maharashtra University",Jalgaon,Other,1,0,92.1797821,95.5548847,0.0,85.3851665,80.5399495,0.0,0.0,0,0,0.0
+5101,Khandesh College Education Society's Institute of Management & Research,Jalgaon,Other,0,0,53.942159,74.782248,53.942159,74.782248,74.782248,0.0,23.1010151,0,0,0.0
+5102,Godavari Institute of Management & Research,Jalgaon,Other,0,0,63.1574978,61.2807064,0.0,46.3793819,46.3793819,0.0,0.0,0,0,0.0
+5104,"Shramsadhana Bombay Trust, College of Engineering & Technology",Jalgaon,Other,0,0,73.5368477,90.9663786,41.4550394,90.9663786,67.3579428,0.0,39.3989669,0,0,0.0
+5109,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani",Nashik,Other,0,0,82.8308366,87.3496474,67.3579428,82.8308366,76.9216256,0.0,0.0,0,0,0.0
+5111,B. P. Hivale Education Society's Institute of Management Studies Career Development Research,Ahmednagar,Other,0,0,92.1797821,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+5112,Padmashree Dr. Vithalrao Vikhe Patil Foundation's Institute of Business Management & Rural Development,Ahmednagar,Other,0,0,74.782248,73.5368477,0.0,56.5488095,53.942159,0.0,58.7911466,0,0,0.0
+5113,Nashik District Maratha Vidya Prasarak Samaj's Institute of Management Research & Technology,Nashik,Other,0,0,58.7911466,69.7143504,0.0,39.3989669,51.4093808,0.0,0.0,0,0,0.0
+5117,Pirens Institute Of Business Management And Administration (IBMA) Loni (BK),Unknown,Other,0,0,63.1574978,82.9644433,31.6629561,51.4093808,82.9644433,0.0,39.3989669,0,0,0.0
+5119,C.H.M.E. Society's Dr. Moonje Institute for Management & Computer Studies,Nashik,Other,0,0,69.7143504,82.9644433,82.9644433,69.7143504,61.2807064,0.0,63.1574978,0,0,0.0
+5120,"MET's Institute of Management, Adgaon",Nashik,Other,0,0,79.9969812,87.3496474,39.3989669,79.9969812,73.5368477,0.0,0.0,0,0,0.0
+5121,K. K. Wagh Institute of Engineering Education and Research,Nashik,Other,0,0,90.7733494,95.5548847,77.8251197,90.7733494,85.3851665,0.0,0.0,0,0,0.0
+5124,Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch,Babulgaon,Other,0,0,73.5368477,82.8308366,0.0,49.3533426,56.5488095,0.0,0.0,0,0,0.0
+5131,C.H.M.E. Society's Dr. Moonje Institute of Management & Information Technology,Nashik,Other,0,0,73.5368477,0.0,19.1539942,25.4779232,49.3533426,0.0,0.0,0,0,0.0
+5150,"R.C. Patel Educational Trust, Institute of Management Reasearch & Development",Shirpur,Other,0,0,93.405226,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+5151,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon",Nashik.,Other,0,0,87.2080299,94.6454851,73.5368477,76.9216256,76.9216256,0.0,56.5488095,0,0,0.0
+5152,G H Raisoni College of Engineering and Management,Jalgaon,Other,0,0,85.3851665,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+5153,West Khandesh Bhagini Seva Mandal's Dr. Suryakanta R. Ajmera M.C.A. College for Women,Dhule,Other,0,0,56.5488095,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+5170,Hindi Seva Mandal's Shri Sant Gadgebaba College of Engineering & Technology,Bhusawal,Other,0,0,73.5368477,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+5177,"Matoshri College of Engineering and Research Centre, Eklahare",Nashik,Other,0,0,58.7911466,79.9969812,0.0,79.9969812,46.3793819,0.0,0.0,0,0,0.0
+5181,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research",Nashik,Other,0,0,76.9216256,85.2118788,46.3793819,41.4550394,73.5368477,0.0,0.0,0,0,0.0
+5303,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha",,Other,0,0,73.5368477,89.1966341,0.0,58.7911466,29.9046039,0.0,0.0,0,0,0.0
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management",Nashik,Other,0,0,67.3579428,63.1574978,0.0,80.5399495,67.3579428,0.0,0.0,0,0,0.0
+5380,Adsul's Technical Campus,Chas Dist. Ahmednagar,Other,0,0,77.8251197,89.1966341,63.1574978,71.1549338,63.1574978,0.0,0.0,0,0,0.0
+5381,Shri. Jaykumar Rawal Institute of Technology,Dondaicha.,Other,0,0,69.7143504,82.8308366,82.8308366,67.3579428,82.8308366,0.0,0.0,0,0,0.0
+5385,"Akole Taluka Education Society,s Agasti Institute of Management, Computer Application & Research, Akole",Ahmednagar,Other,0,0,56.5488095,46.3793819,27.2744425,56.5488095,56.5488095,0.0,34.5198145,0,0,0.0
+5386,Dr. B.V. Hiray College of Management & Research Centre,Malegaon.,Other,0,0,74.782248,90.7733494,0.0,44.5345198,71.1549338,0.0,67.3579428,0,0,0.0
+5509,Shri Swami Samarth Institute of Management and Technology,Malwadi-Bota,Other,0,0,51.4093808,44.5345198,0.0,13.5402134,44.5345198,0.0,0.0,0,0,0.0
+5550,BHUSAWAL ARTS SCIENCE AND P O NAHATA COMMERCE COLLEGE BHUSAWAL,Unknown,Other,0,0,58.7911466,56.5488095,0.0,31.6629561,56.5488095,0.0,0.0,0,0,0.0
+5556,DADASAHEB DR.SURESH G.PATIL COLLEGE CHOPDA,Unknown,Other,0,0,53.942159,56.5488095,0.0,34.5198145,56.5488095,0.0,0.0,0,0,0.0
+5569,SHRI SHIVAJI VIDYA PRASARAK SANSTHA L.K.DR.P.R.GHOGREY SCIENCE COLLEGE DHULE,Unknown,Other,0,0,46.3793819,61.2807064,36.496736,61.2807064,61.2807064,0.0,36.496736,0,0,0.0
+5597,VAMANRAO ITHAPE COLLEGE OF ENGINEERING AND MANAGEMENT,Unknown,Other,0,0,39.3989669,19.1539942,36.496736,12.4750009,7.4072677,0.0,0.0,0,0,0.0
+5619,COMMERCE MANAGEMENT AND COMPUTER SCIENCE COLLEGE,Unknown,Other,0,0,49.3533426,0.0,49.3533426,19.1539942,44.5345198,0.0,0.0,0,0,0.0
+5665,Vidya Niketan Institute of Management And Computer Applications,Unknown,Other,0,0,56.5488095,0.0,0.0,0.0,74.782248,0.0,0.0,0,0,0.0
+5674,Khandesh Education Society's Institute of Management and Technology,Amalner,Other,0,0,69.7143504,58.7911466,0.0,51.4093808,44.5345198,0.0,0.0,0,0,0.0
+6005,Government College of Engineering,Karad,Other,0,0,97.0718086,97.8055126,95.2942951,93.405226,94.4270578,0.0,97.8055126,0,0,0.0
+6029,Yashwantrao Chavan School of Rural Development,Kolhapur,Other,1,0,87.2080299,90.7733494,0.0,90.7733494,82.8308366,0.0,0.0,0,0,0.0
+6031,Punyashlok Ahilyadevi Holkar Solapur University,Solapur,Other,0,0,74.782248,0.0,0.0,85.2118788,90.7733494,0.0,0.0,0,0,0.0
+6033,"Department of Computer Science, Savitribai Phule Pune University",Pune,Other,1,0,99.6830308,99.74737,99.113241,99.2830459,98.9283423,0.0,99.74737,0,0,0.0
+6120,"Shri. Khanderai Pratishthans Dnyansagar Institute of Management and Research, Balewadi",Pune,Other,0,0,80.5399495,77.8251197,69.7143504,44.5345198,80.5399495,0.0,73.5368477,0,0,0.0
+6129,Jayawant Shikshan Prasarak Mandal's Jayawant Institute of Management Studies,Tathawade Pune-411033,Other,0,0,95.5548847,97.390747,89.1966341,94.4270578,95.5548847,0.0,0.0,0,0,0.0
+6137,"Vidya Pratishthan Institute of Information Technology, Baramati",Pune,Other,0,0,93.405226,92.1797821,0.0,85.2118788,89.1966341,0.0,0.0,0,0,0.0
+6138,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi",Pune,Other,0,0,85.2118788,89.1966341,0.0,77.8251197,82.8308366,0.0,0.0,0,0,0.0
+6139,Progressive Education Society's Modern College of Engineering,Pune,Other,0,0,97.390747,98.2089665,74.782248,96.1125146,95.5548847,0.0,95.2942951,0,0,0.0
+6140,"Dnyan Kala Krida & Krishi Prathishtan's Maharashtra Institute of Management, Kalamb",Pune,Other,0,0,76.9216256,41.4550394,0.0,67.3579428,67.3579428,0.0,0.0,0,0,0.0
+6141,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade",Pune,Other,0,0,98.2089665,98.6717482,92.1797821,90.9663786,97.6265047,0.0,97.390747,0,0,0.0
+6144,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi",Pune,Other,0,0,92.3361383,93.405226,0.0,73.5368477,85.3851665,0.0,0.0,0,0,0.0
+6145,JSPM'S Jaywantrao Sawant College of Engineering,Pune,Other,0,0,94.6454851,96.828928,0.0,85.2118788,90.9663786,0.0,0.0,0,0,0.0
+6152,"Zeal Education Society's Zeal Institute of Business Administration, Computer Application and Research",Pune,Other,0,0,87.2080299,90.7733494,0.0,87.2080299,80.5399495,0.0,82.8308366,0,0,0.0
+6154,"Institute of Industrial & Computer Management & Research, Nigdi",Pune,Other,0,0,96.392589,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+6155,"G.H.Raisoni College of Engineering & Management, Wagholi",Pune,Other,0,0,93.405226,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+6158,"Rajmata Jijau Shikshan Prasarak Mandal's Institute of Computer and Management Research, Dudulgaon",Pune,Other,0,0,82.8308366,93.5511867,0.0,93.5511867,82.8308366,0.0,0.0,0,0,0.0
+6164,Psd Shastri Educational Foundation's Asma Institute Of Management,Pune,Other,0,0,89.1331398,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+6167,"Kamla Education Society's Pratibha Institute of Business Management, Chinchwad",Pune,Other,0,0,90.7733494,94.6454851,82.9644433,82.9644433,85.2118788,0.0,0.0,0,0,0.0
+6168,"Shikshan Maharshi Dr. D.Y. Patil Centre for Management & Research, Chikhali",Pune,Other,0,0,85.2118788,92.3361383,0.0,67.3579428,85.2118788,0.0,0.0,0,0,0.0
+6170,"Abhinav Education Society's Institute of Management and Research, Haveli",Pune,Other,0,0,85.3851665,93.405226,0.0,67.3579428,79.9969812,0.0,0.0,0,0,0.0
+6175,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering",Pune,Other,0,0,99.5434135,99.6830308,99.3736085,99.3736085,99.2830459,0.0,99.113241,0,0,0.0
+6179,Indira College of Engineering & Management,Pune,Other,0,0,98.7632442,99.008333,96.828928,92.3361383,98.5181554,0.0,98.5181554,0,0,0.0
+6201,"Dr. D. Y. Patil School Of MCA, Lohegaon",Pune,Other,0,0,92.1797821,94.4270578,89.1966341,87.2080299,87.2080299,0.0,87.2080299,0,0,0.0
+6206,"Pune District Education Association's College of Engineering, Manjari(Bk), Hadapsar",Pune,Other,0,0,85.2118788,93.405226,93.405226,82.9644433,82.8308366,0.0,0.0,0,0,0.0
+6208,Deccan Education Society's Chintamanrao Institute of Management Development & Research,Sangli,Other,0,0,71.1549338,69.7143504,0.0,51.4093808,23.1010151,0.0,69.7143504,0,0,0.0
+6212,KIT's Institute of Management Education & Research,Kolhapur,Other,0,0,93.405226,94.6454851,0.0,51.4093808,89.1966341,0.0,85.2118788,0,0,0.0
+6213,Chh. Shahu Institute Of Business Edu And Res Vasantraodada Patil Institute Of Management Studies & Research,Sangli,Other,0,0,71.1549338,82.9644433,0.0,53.942159,53.942159,0.0,0.0,0,0,0.0
+6214,"K. E. Society's Rajarambapu Institute of Technology, Walwa",Sangli,Other,0,0,87.2080299,94.6454851,0.0,56.5488095,76.9216256,0.0,74.782248,0,0,0.0
+6219,"KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon",Solapur,Other,0,0,85.2118788,89.1966341,0.0,69.7143504,89.1966341,0.0,0.0,0,0,0.0
+6220,SVERI's College of Engineering,Pandharpur,Other,0,0,65.8578922,61.2807064,0.0,61.2807064,65.8578922,0.0,0.0,0,0,0.0
+6222,Dattajirao Kadam Technical Education Society's Textile & Engineering Institute,Ichalkaranji.,Other,0,0,80.5399495,96.1125146,0.0,71.1549338,79.9969812,0.0,0.0,0,0,0.0
+6228,"Dr. D. Y. Patil Pratishthan's D.Y.Patil Institute of Master of Computer Applications and Management, Akurdi",Pune,Other,0,0,97.6265047,98.2089665,94.6454851,93.5511867,94.6454851,0.0,94.6454851,0,0,0.0
+6231,"Sinhgad Technical Education Society's Sinhgad Institute of Management ,Vadgaon(Budruk)",Pune,Other,0,0,93.5511867,94.4270578,89.1966341,92.3361383,92.3361383,0.0,92.3361383,0,0,0.0
+6232,Maharashtra Education Society's Institute of Management and Career Courses (IMCC),Pune,Other,0,0,97.0718086,98.2089665,97.0718086,96.392589,94.6454851,0.0,96.828928,0,0,0.0
+6236,"Sinhgad Technical Education Society's , Sinhgad Institute of Business Administration & Research, Kondhawa-Saswad Road",Pune,Other,0,0,89.1966341,90.7733494,0.0,71.1549338,87.3496474,0.0,0.0,0,0,0.0
+6239,"Sinhgad Technical Education Society, Sinhgad Institute of Management & Computer Application, Narhe (Ambegaon)",Pune,Other,0,0,89.1966341,92.1797821,0.0,85.3851665,82.9644433,0.0,0.0,0,0,0.0
+6240,Siddhant Institute Of Computer Application,Sudambare,Other,0,0,82.8308366,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+6248,KFS - Krishna Institute of Computer Application & Management,Wathar,Other,0,0,73.5368477,58.7911466,0.0,73.5368477,73.5368477,0.0,0.0,0,0,0.0
+6268,Tatyasaheb Kore Institute of Engineering and Technology,Warananagar,Other,0,0,73.5368477,69.7143504,0.0,56.5488095,69.7143504,0.0,0.0,0,0,0.0
+6277,Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering,Jaysingpur,Other,0,0,69.7143504,89.1331398,0.0,67.3579428,67.3579428,0.0,0.0,0,0,0.0
+6310,"Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering &Technology, Talegaon station",Pune,Other,0,0,82.9644433,85.3851665,0.0,73.5368477,74.782248,0.0,0.0,0,0,0.0
+6319,"Shahajirao Patil Vikas Pratishthan, S.B.Patil College of Engineering, Vangali",Tal. Indapur,Other,0,0,85.2118788,69.7143504,0.0,85.2118788,44.5345198,0.0,0.0,0,0,0.0
+6321,Vidya Vikas Pratishthan Institute of Engineering and Technology,Solapur,Other,0,0,69.7143504,67.3579428,0.0,69.7143504,69.7143504,0.0,0.0,0,0,0.0
+6467,Swami Vivekanand Institute Of Technology,Solapur,Other,0,0,31.6629561,79.9969812,0.0,79.9969812,79.9969812,0.0,0.0,0,0,0.0
+6545,"Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye",Satara.,Other,0,0,95.2942951,0.0,0.0,51.4093808,51.4093808,0.0,0.0,0,0,0.0
+6547,"Suryadatta Educational Foundation, Suryadatta Institute of Management and Mass Communication",Pune,Other,0,0,94.4270578,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+6548,"Suryadatta Educational Foundation, Suryadatta Institute of Business Management and Technology",Pune,Other,0,0,92.3361383,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+6614,"Sadhu Vaswani Institute Of Management Studies For Girls, Koregaon",Pune,Other,0,0,79.9969812,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0
+6628,Dattakala Group Of Institutions,Swami - Chincholi Tal. Daund Dist. Pune,Other,0,0,69.7143504,39.3989669,0.0,31.6629561,61.2807064,0.0,0.0,0,0,0.0
+6632,Navsahyadri Education Society's Group of Institutions,Unknown,Other,0,0,74.782248,80.5399495,0.0,44.5345198,67.3579428,0.0,49.3533426,0,0,0.0
+6634,"KJEI's Trinity Academy of Engineering, Yewalewadi",Pune,Other,0,0,79.9969812,87.2080299,0.0,77.8251197,77.8251197,0.0,0.0,0,0,0.0
+6635,Samarth College of Engineering and Management,Unknown,Other,0,0,67.3579428,34.5198145,58.7911466,34.5198145,61.2807064,0.0,0.0,0,0,0.0
+6755,JSPM Narhe Technical Campus,Pune.,Other,0,0,94.4270578,94.4270578,85.2118788,92.3361383,90.9663786,0.0,0.0,0,0,0.0
+6757,"Yashoda Technical Campus, Wadhe",Satara.,Other,0,0,69.7143504,67.3579428,0.0,31.6629561,58.7911466,0.0,0.0,0,0,0.0
+6775,"Yashaswi Education Society's International Institute of Management Science, Chinchwad",Pune,Other,0,0,79.9969812,90.7733494,0.0,90.7733494,71.1549338,0.0,0.0,0,0,0.0
+6794,Anantrao Pawar College of Engineering & Research,Pune,Other,0,0,82.8308366,89.1966341,0.0,82.8308366,67.3579428,0.0,0.0,0,0,0.0
+6803,Sant Gajanan Maharaj College of Engineering,Gadhinglaj,Other,0,0,76.9216256,73.5368477,0.0,51.4093808,51.4093808,0.0,0.0,0,0,0.0
+6812,"Progressive Education Society's Modern Institute of Business Studies, Nigdi",Pune,Other,0,0,95.2942951,96.1125146,90.7733494,93.5511867,93.405226,0.0,0.0,0,0,0.0
+6836,Dr.D.Y.Patil Institute Of Management & Entrepreneur Development,Talegaon,Other,0,0,85.3851665,92.1797821,79.9969812,73.5368477,85.2118788,0.0,0.0,0,0,0.0
+6899,Chhatrapati Shahu Institute of Business Education & Research,Kolhapur,Other,0,0,82.9644433,89.1966341,0.0,76.9216256,51.4093808,0.0,89.1966341,0,0,0.0
+6971,K.B. Joshi Institute of Information Technology,Pune,Other,0,0,0.0,0.0,0.0,0.0,0.0,85.3851665,0.0,0,0,0.0
+6973,ASMS Institute of Business Management and Research MCA,Pune,Other,0,0,87.2080299,90.7733494,0.0,77.8251197,85.2118788,0.0,0.0,0,0,0.0
+6990,Jaihind Institute of Management and Research,Unknown,Other,0,0,69.7143504,74.782248,61.2807064,44.5345198,44.5345198,0.0,0.0,0,0,0.0
+6991,"Dr. D.Y. Patil Technical Campus, Varale, Talegaon",Pune,Other,0,0,87.2080299,93.5511867,87.2080299,76.9216256,85.3851665,0.0,0.0,0,0,0.0
+6992,"Pune Cambridge Institute of Management and Computer Application, Ambegaon Pathar",Pune,Other,0,0,92.1797821,93.5511867,0.0,53.942159,89.1331398,0.0,92.1797821,0,0,0.0
+16122,Pharate Patil Management Institutes,Unknown,Other,0,0,53.942159,53.942159,0.0,34.5198145,34.5198145,0.0,44.5345198,0,0,0.0
+16125,Vivekanand College,Kolhapur,Other,0,0,76.9216256,77.8251197,0.0,69.7143504,69.7143504,0.0,0.0,0,0,0.0
+16130,KARMAVEER HIRE ARTS SCIENCE COMMERCE AND EDUCATION COLLEGE,Unknown,Other,0,0,82.8308366,41.4550394,0.0,69.7143504,82.8308366,0.0,82.8308366,0,0,0.0
+16145,KARMAVEER BHAURAO PATIL MAHAVIDYALAYA PANDHARPUR AUTONOMOUS,Unknown,Other,0,0,49.3533426,15.5994113,0.0,41.4550394,2.8640429,0.0,0.0,0,0,0.0
+16153,MUDHOJI COLLEGE PHALTAN,Unknown,Other,0,0,80.5399495,0.0,0.0,0.0,41.4550394,0.0,0.0,0,0,0.0
+16200,YASHWANTRAO CHAVAN MAHAVIDYALAYA,ISLAMPUR,Other,0,0,56.5488095,56.5488095,0.0,0.0,56.5488095,0.0,0.0,0,0,0.0
+16207,SADGURU GADGE MAHARAJ COLLEGE KARAD,Unknown,Other,0,0,85.2118788,76.9216256,0.0,56.5488095,71.1549338,0.0,0.0,0,0,0.0
+16216,SANGOLA MAHAVIDYALAYA SANGOLA,Unknown,Other,0,0,77.8251197,85.2118788,0.0,85.2118788,41.4550394,0.0,0.0,0,0,0.0
+16259,FRIENDS UNION FOR ENERGISING LIVES FUEL COLLEGE,Unknown,Other,0,0,92.3361383,58.7911466,0.0,51.4093808,63.1574978,0.0,0.0,0,0,0.0
+16331,SarSam College of Management & Technology,Unknown,Other,0,0,36.496736,0.0,0.0,34.5198145,21.0059952,0.0,0.0,0,0,0.0
+16353,Shivsamarth Institute of Management,Talmawale,Other,0,0,56.5488095,27.2744425,0.0,36.496736,9.7430286,0.0,0.0,0,0,0.0
+16355,Audyogik Shikshan Mandal's Nextgen Technical Campus,Unknown,Other,0,0,74.782248,0.0,0.0,65.8578922,44.5345198,0.0,0.0,0,0,0.0
+16356,Dr. Sudhakar Rao Jadhavar Institute of Management & Technology,Unknown,Other,0,0,76.9216256,79.9969812,0.0,61.2807064,76.9216256,0.0,0.0,0,0,0.0
+16358,Zeal Institute of Technology,Unknown,Other,0,0,74.782248,74.782248,0.0,0.0,27.2744425,0.0,0.0,0,0,0.0

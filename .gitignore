@@ -1,0 +1,24 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.i
+*.out
+
+# Python virtualenv
+.venv/
+venv/
+
+# Editor / OS files
+.vscode/
+*.suo
+*.user
+*.log
+.DS_Store
+Thumbs.db
+
+# Generated exports
+recs.csv
+
+# Ignore archive folder if created
+archive/
