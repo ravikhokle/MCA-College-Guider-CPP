@@ -1,62 +1,49 @@
 # MCA CET College Guider
 
-A simple command-line tool that recommends MCA colleges based on your percentile and category.
+Simple CLI tool that recommends MCA colleges based on your percentile and category.
 
 ## Quick start
 
-Prerequisites:
-- A C++ compiler (g++, MSVC, etc.)
-- `mca_cet_clean.csv` in the project root (the program reads this dataset at startup)
+Build (example):
 
-Build (example, MinGW):
-
-    g++ -std=c++11 main.cpp CollegeData.cpp -O2 -Wall -Wextra -o mca_guider.exe
+```bash
+g++ -std=c++11 main.cpp CollegeData.cpp -O2 -Wall -Wextra -o mca_guider.exe
+```
 
 Run:
 
-    .\mca_guider.exe
+```bash
+.\\mca_guider.exe  # on Windows
+```
 
-Follow the interactive prompts: enter your percentile and category, then pick a menu option.
+## Notes
 
-## Repository contents (what to keep)
+- Keep `mca_cet_clean.csv` in the project root — the program reads this dataset at startup.
+- The menu shows recommended and nearby (reach) colleges and can export results to CSV.
 
-- main.cpp — program entry and UI
-- CollegeData.cpp / CollegeData.h — data loader and models
-- mca_cet_clean.csv — dataset used by the program (keep if you want full data)
-- README.md, LICENSE — documentation and license
+## What to keep in the repo
 
-## What NOT to commit
+- `main.cpp`, `CollegeData.cpp`, `CollegeData.h`
+- `mca_cet_clean.csv` (data file) — optional if you prefer to keep data separate
+- `README.md`, `LICENSE`
 
-- Compiled binaries and object files: `*.exe`, `*.o`, `*.i`
-- Virtual environments: `.venv/` or `venv/`
-- Export files you create during runs (e.g., `recs.csv`)
-These are already ignored by `.gitignore`.
+## Do NOT commit
 
-## Features
+- Compiled binaries (`*.exe`), object files (`*.o`), virtualenvs (`.venv/`), or temporary exports like `recs.csv`.
 
-- Shows recommended colleges and nearby "reach" colleges.
-- Export recommendations to CSV from the menu.
-- Console-friendly color output if the terminal supports ANSI colors.
+## Publish to GitHub
 
-## Contributing
+1. Create a new empty repository on GitHub.
+2. From this folder run:
 
-Bugs and small improvements are welcome. Please open an issue or a pull request and include a short description of your change.
-
-## Publish to GitHub (one-time)
-
-1. Create an empty repository on GitHub (do not add a README there).
-2. On your machine, run these commands from the project folder:
-
-    git remote add origin https://github.com/ravikhokle/MCA-College-Guider-CPP.git
-    git branch -M main
-    git push -u origin main
-
-If `git push` asks for credentials, use your GitHub username/password or a Personal Access Token (PAT).
+```bash
+git remote add origin https://github.com/ravikhokle/MCA-College-Guider-CPP.git
+git branch -M main
+git push -u origin main
+```
 
 ## License
 
-This project is licensed under the MIT License — see the `LICENSE` file.
+MIT — see the `LICENSE` file.
 
----
-
-If you want, I can push the repo to GitHub now (I will use the URL you provided). If push needs credentials I will show any errors and next steps.
+If you want a screenshot or CI (GitHub Actions) added, tell me and I’ll add it.
