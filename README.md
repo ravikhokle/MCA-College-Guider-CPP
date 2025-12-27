@@ -13,7 +13,7 @@ g++ -std=c++11 main.cpp CollegeData.cpp -O2 -Wall -Wextra -o mca_guider.exe
 Run:
 
 ```bash
-.\\mca_guider.exe  # on Windows
+.\mca_guider.exe  # on Windows
 ```
 
 ## Notes
