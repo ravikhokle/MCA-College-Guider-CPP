@@ -4,7 +4,7 @@ Simple CLI tool that recommends MCA colleges based on your percentile and catego
 
 ## Quick start
 
-Build (example):
+Build:
 
 ```bash
 g++ -std=c++11 main.cpp CollegeData.cpp -O2 -Wall -Wextra -o mca_guider.exe
